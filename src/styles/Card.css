@@ -1,0 +1,48 @@
+.card {
+    align-items: center;
+    display: flex;
+    gap: 1.25rem;
+    justify-content: center;
+}
+
+.card__img {
+    border-radius: 5px;
+    height: 168px;
+    background-position: center;
+    background-size: cover;
+    width: 125px;
+}
+
+.card__location {
+    color: #918E9B;
+    font-size: 10px;
+    margin: 0;
+}
+
+.card__country {
+    color: black;
+    font-size: 10px;
+    letter-spacing: 0.17rem;
+    margin-right: 0.75rem;
+}
+
+.card__title {
+    margin-top: 4px;
+    margin-bottom: 1rem;
+}
+
+.card__date {
+    color: black;
+    font-size: 10px;
+    font-weight: 700;
+    margin-top: 0px;
+    margin-bottom: 0.5rem;
+}
+
+.card__description {
+    color: #2B283A;
+    font-size: 10px;
+    line-height: 150%;
+    margin: 0;
+    width: 320px;
+}

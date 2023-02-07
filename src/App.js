@@ -7,7 +7,9 @@ export default function App() {
   return (
     <div className="App">
       <Header />
-      <Card />
+      <main className="cards-container">
+        <Card />
+      </main>
       <Footer />
     </div>
   );
