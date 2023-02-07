@@ -26,4 +26,4 @@ https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=0%3A1&t
 
 ## Resultado:
 
-![screenshot da página do projeto](./image.jpeg)
+![screenshot da página do projeto](./react-my-travel-journal-screenshot.jpeg)
