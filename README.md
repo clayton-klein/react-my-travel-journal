@@ -1,3 +1,8 @@
+**Status: finalizado.**
+<br>
+<br>
+<br>
+
 # React My Travel Journal (solo)
 
 Este foi o quarto projeto (segundo solo) desenvolvido através do curso **React Course - Beginner's Tutorial for React JavaScript Library [2022]**
